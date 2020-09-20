@@ -1,4 +1,4 @@
-# tablaeu
+# tableau
 echo "# tablaeu" >> README.md
   ## How to create a Story Presentation on Tableau
 * Click the New Story tab
