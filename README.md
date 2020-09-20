@@ -1,5 +1,5 @@
 # tableau
-echo "# tablaeu" >> README.md
+echo "# tableau" >> README.md
   ## How to create a Story Presentation on Tableau
 * Click the New Story tab
 * In the lower-left corner of the screen, choose a size for your story. Choose from one of the predefined sizes, or set a custom size, in pixels:
